@@ -4,7 +4,7 @@
    
    #header, #footer {
 			font-size: 40px;;
-			padding: 0.3em;
+			padding: 0.4em;
 			background: #ecc814;
 		}
    
